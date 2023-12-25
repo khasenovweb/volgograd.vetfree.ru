@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8">
+    <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+    <title>Ничего не найдено</title>
+    <style>
+        h1 {color: #BBBBBB;font: bold 2.833em 'PT Serif', "Times New Roman", times, serif;margin: .5em;}
+        img {margin-bottom: -15px;}
+        div {position: fixed;bottom: 0;right: 0;z-index: -10}
+    </style>
+</head>
+<body>
+<h1>Тут совсем ничего нет</h1>
+<div><img src="/cat.png" width="152px" height="201" alt="Грустный котик"/></div>
+</body>
+</html>
